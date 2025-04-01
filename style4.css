@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+
+
+
+.s {
+
+ text-align: center;
+}
+
+html{
+    background-image:linear-gradient(#95fff1, #ee3a8e) ;
+    background-color: white;
+}
+
+body{
+    background-image:linear-gradient(#95fff1, #ff87bf) ;
+}
+
+
+.verh{
+ 
+      margin: 5px;
+ color: #571e58;
+ font-size: 25px;
+ text-decoration: none;
+}
+
+.v {
+        text-align: center;
+}
+
+.fhoto {
+ text-align: center;
+ margin-top: 35px;
+ 
+}
+
+.photoone{
+  padding-left: 5px;
+   padding-right: 5px;
+}
+.phototwo{
+ padding-left: 5px;
+   padding-right: 5px;
+}
+.photothree{
+ padding-left: 5px;
+   padding-right: 5px;
+}
+.photofour{
+ padding-left: 5px;
+   padding-right: 5px;
+}
+.photofive{
+ padding-left: 5px;
+   padding-right: 5px;
+}
+.photosix{
+     padding-left: 5px;
+   padding-right: 5px;
+}
+.photoseven{
+     padding-left: 5px;
+   padding-right: 5px;
+}
+
+
+
+h1{
+  color: rgb(136, 60, 103);
+}
+
+
+
+
+.fero{
+   text-align: center;
+   background-color: #ffc5e0;
+   padding: 50px;
+ 
+  
+}
+
+.zap{
+
+display: inline-block;
+ text-align: center;
+   background-color: #ffc5e0;
+   padding: 50px;
+}
+
+.ruch{
+  margin-bottom: -65px;
+}
+
+.fer {
+   text-align: center;
+}
+
+.ddd{
+   text-align: center;
+}
+
+.iul{
+   font-size: 25px;
+   
+   
+}
+
+
+.go{
+  text-align: center;
+}
+
+.faq-container {
+    width: 100%;
+    max-width: 600px;
+    background: white;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    
+}
+
+.faq-item {
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;
+}
+
+.faq-question {
+    font-weight: bold;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background: #e0e0e0;
+    border-radius: 5px;
+    transition: background 0.3s;
+}
+
+.faq-question:hover {
+    background: #d0d0d0;
+}
+
+.faq-answer {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out, padding 0.3s ease-out;
+    padding: 0 10px;
+    opacity: 0;
+}
+
+.faq-answer.open {
+    max-height: 1000px;
+    padding: 10px 10px;
+    opacity: 1;
+    transition: max-height 0.3s ease-in, padding 0.3s ease-in, opacity 0.3s ease-in;
+}
+
+.toggle {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+main {
+    display: flex;
+    justify-content: center;  
+    align-items: center;    
+           
+  }
