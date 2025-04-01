@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.sakura{
+ 
+  
+  border: 3px solid rosybrown;
+}
+
+
+.s {
+
+ text-align: center;
+}
+
+html{
+    background-image:linear-gradient(#95fff1, #ee3a8e) ;
+}
+
+body{
+    background-image:linear-gradient(#95fff1, #ff87bf) ;
+}
+
+
+.verh{
+ 
+      margin: 5px;
+ color: #571e58;
+ font-size: 25px;
+ text-decoration: none;
+}
+
+.v {
+        text-align: center;
+}
+
+.fhoto {
+ text-align: center;
+ margin-top: 35px;
+ 
+}
+
+.photoone{
+  padding-left: 5px;
+   padding-right: 5px;
+}
+.phototwo{
+ padding-left: 5px;
+   padding-right: 5px;
+}
+.photothree{
+ padding-left: 5px;
+   padding-right: 5px;
+}
+.photofour{
+ padding-left: 5px;
+   padding-right: 5px;
+}
+.photofive{
+ padding-left: 5px;
+   padding-right: 5px;
+}
+.photosix{
+     padding-left: 5px;
+   padding-right: 5px;
+}
+.photoseven{
+     padding-left: 5px;
+   padding-right: 5px;
+}
+
+
+
+h1{
+  color: rgb(136, 60, 103);
+}
